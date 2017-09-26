@@ -27,6 +27,7 @@ int main()
 				printf("%d ",a[k]);
 			printf("\n");
 		}
-	}	
+	}
+	printf("Thankyou");	
 	return 0;
 }
